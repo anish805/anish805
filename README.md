@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm anish805</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish805&label=Profile%20views&color=0e75b6&style=flat" alt="anish805" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish805" alt="anish805" /></a> </p>
 
@@ -31,3 +30,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish805&label=Profile%20views&color=0e75b6&style=flat" alt="anish805" /> </p>
